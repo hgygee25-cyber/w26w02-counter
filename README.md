@@ -489,6 +489,7 @@ button.primary {
   background: #ebe6ed;
 }
 
+
 .dot.active {
   background: var(--pink);
 }
